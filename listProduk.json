@@ -1,0 +1,88 @@
+{
+    "barang": [
+      {
+        "userId": 1,
+        "id": 1,
+        "nama": "Kulkas ELECTROLUX ETB5400B-G / ETB 5400B-G / ETB 5400 B-G",
+        "image": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2020/11/27/73d4cbc3-4e9d-4554-94e8-e57dda051d70.jpg",
+        "harga": 12499000,
+        "stok": 6
+      },
+      {
+        "userId": 1,
+        "id": 2,
+        "nama": "Kulkas ELECTROLUX EBB3702K-A / EBB 3702K-A / EBB 3702 K-A",
+        "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/3/17/8d31a161-7f94-4075-8a85-975e46d168be.jpg",
+        "harga": 8190000,
+        "stok": 18
+      },
+      {
+        "userId": 1,
+        "id": 3,
+        "nama": "Kulkas ELECTROLUX ETB 2802J-A",
+        "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/2/8/42ce8b5d-a4d1-4ed3-87ff-82a81ac87baa.jpg",
+        "harga": 27699000,
+        "stok": 2
+      },
+      {
+        "userId": 1,
+        "id": 4,
+        "nama": "Kulkas ELECTROLUX EHE6879A-B CVN / EHE 6879A-B CVN",
+        "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/3/17/8d31a161-7f94-4075-8a85-975e46d168be.jpg",
+        "harga": 33999000,
+        "stok": 4
+      },
+      {
+        "userId": 1,
+        "id": 5,
+        "nama": "Kulkas ELECTROLUX ETB 2802J-A",
+        "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/3/17/77be904b-5d9e-439a-b9ae-b834fc6cfb8e.jpg",
+        "harga": 5890000,
+        "stok": 7
+      },
+      {
+        "userId": 1,
+        "id": 6,
+        "nama": "Kulkas ELECTROLUX ETB5400B-A / ETB 5400B-A / ETB 5400 B-A",
+        "image": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2020/11/27/9ad793fc-06d1-43e1-a021-d28368ba7f21.jpg",
+        "harga": 11799000,
+        "stok": 5
+      },
+      {
+        "userId": 1,
+        "id": 7,
+        "nama": "Kulkas 2 Pintu Sharp Sj 197 ND VP/VB Kirey 3 Tanpa Bunga Es Low Watt",
+        "image": "https://images.tokopedia.net/img/cache/900/product-1/2020/4/29/10949096/10949096_5ad0e3e3-70d0-4d95-8591-02a49e2b9535_700_700",
+        "harga": 2500000,
+        "stok": 2
+      },
+      {
+        "userId": 1,
+        "id": 8,
+        "nama": "AQUA KULKAS 2 PINTU 187 LITER AQR-D251(DS) DARK SILVER",
+        "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/12/8/b971a046-405c-44aa-9542-4b14c0992087.jpg",
+        "harga": 2999000,
+        "stok": 3
+      },
+      {
+        "userId": 1,
+        "id": 9,
+        "nama": "SAMSUNG Kulkas 2 Pintu [203L] RT19M300BGS/SE - Silver Garansi Resmi",
+        "image": "https://images.tokopedia.net/img/cache/900/product-1/2019/9/21/15932959/15932959_caad2c0c-c2ad-4490-9930-73ed8721b3d4_800_800",
+        "harga": 3299000,
+        "stok": 8
+      },
+      {
+        "userId": 1,
+        "id": 10,
+        "nama": "KULKAS SHARP 2 PINTU SJ 450 GP NO FROST / KULKAS SHARP MURAH ORIGINAL",
+        "image": "https://images.tokopedia.net/img/cache/900/product-1/2020/9/4/68520297/68520297_1b7a86e1-e495-4582-9a55-a5c4910e9a5c_640_640",
+        "harga": 5499000,
+        "stok": 4
+      }
+    ],
+
+    "profile": {
+      "name": "typicode"
+    }
+  }

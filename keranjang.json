@@ -1,0 +1,39 @@
+{
+  "cart": [
+    {
+      "userId": 1,
+      "id": 1618161854783,
+      "nama": "Kulkas ELECTROLUX ETB5400B-G / ETB 5400B-G / ETB 5400 B-G",
+      "harga": 12499000,
+      "total_qty": 1,
+      "total_harga": 12499000
+    },
+    {
+      "userId": 2,
+      "id": 1618161857631,
+      "nama": "Kulkas ELECTROLUX EBB3702K-A / EBB 3702K-A / EBB 3702 K-A",
+      "harga": 8190000,
+      "total_qty": 1,
+      "total_harga": 8190000
+    },
+    {
+      "userId": 2,
+      "id": 1618188241230,
+      "nama": "Kulkas ELECTROLUX EBB3702K-A / EBB 3702K-A / EBB 3702 K-A",
+      "harga": 8190000,
+      "total_qty": "1",
+      "total_harga": 8190000
+    },
+    {
+      "userId": 1,
+      "id": 1618189096596,
+      "nama": "Kulkas ELECTROLUX ETB5400B-G / ETB 5400B-G / ETB 5400 B-G",
+      "harga": 12499000,
+      "total_qty": 3,
+      "total_harga": 37497000
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
